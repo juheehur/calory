@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "src/app/api/analyze/route.ts": { "maxDuration": 60 },
+    "src/app/api/recipe/route.ts": { "maxDuration": 60 },
+    "src/app/api/nutrition/route.ts": { "maxDuration": 60 },
+    "src/app/api/selfie/route.ts": { "maxDuration": 60 }
+  }
+}
